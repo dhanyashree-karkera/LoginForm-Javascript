@@ -1,0 +1,18 @@
+.container {
+    width: 500px !important; 
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center; 
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    }
+.input{
+    display: flex;
+    gap: 1rem;
+}
+.container h1{
+    margin-bottom: 30px;
+}
